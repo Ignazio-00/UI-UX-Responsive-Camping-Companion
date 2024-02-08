@@ -22,7 +22,7 @@ const Navbar = () => {
       <ul
         className={`lg:flex flex-col lg:flex-row lg:h-full gap-12 ${
           isOpen ? "flex" : "hidden"
-        } lg:static absolute top-full left-0 w-full bg-gray-800 p-4 lg:bg-transparent lg:p-0 transition-all duration-300`}
+        } lg:static absolute top-full left-0 w-full bg-gray-100 p-4 lg:bg-transparent lg:p-0 transition-all duration-300`}
       >
         {NAV_LINKS.map((link) => (
           <Link
