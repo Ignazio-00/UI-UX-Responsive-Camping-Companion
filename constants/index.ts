@@ -62,15 +62,15 @@ export const FOOTER_LINKS = [
   },
   {
     title: "Our Community",
-    links: ["Climbing xixixi", "Hiking hilink", "Hilink kinthill"],
+    links: ["Climbing on Reddit", "Discord Channel", "Travel Blog", "Forum"],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
-    { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "hilink@akinthil.com" },
+    { label: "Admin Officer", value: "123-456-78910" },
+    { label: "Email Officer", value: "email@email.com" },
   ],
 };
 
