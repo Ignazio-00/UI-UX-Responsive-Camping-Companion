@@ -52,7 +52,7 @@ export const FOOTER_LINKS = [
   {
     title: "Learn More",
     links: [
-      "About Hilink",
+      "About",
       "Press Releases",
       "Environment",
       "Jobs",
@@ -62,7 +62,7 @@ export const FOOTER_LINKS = [
   },
   {
     title: "Our Community",
-    links: ["Climbing on Reddit", "Discord Channel", "Travel Blog", "Forum"],
+    links: ["Climbing on Reddit", "Travel Blog", "Forum"],
   },
 ];
 
@@ -76,11 +76,5 @@ export const FOOTER_CONTACT_INFO = {
 
 export const SOCIALS = {
   title: "Social",
-  links: [
-    "/facebook.svg",
-    "/instagram.svg",
-    "/twitter.svg",
-    "/youtube.svg",
-    "/wordpress.svg",
-  ],
+  links: ["/facebook.svg", "/instagram.svg", "/twitter.svg", "/youtube.svg"],
 };
