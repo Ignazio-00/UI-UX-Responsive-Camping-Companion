@@ -43,11 +43,11 @@ const Guide = () => {
                 <p className="regular-16 text-gray-20">Destination</p>
                 <p className="bold-16 text-green-50">48 min</p>
               </div>
-              <p className="bold-20 mt-2">Camping Spot</p>
+              <p className="bold-20 mt-2">Camping Spot A</p>
             </div>
             <div className="flex w-full flex-col">
               <p className="regular-16 text-gray-20">Start Track</p>
-              <h4 className="bold-20 mt-2 whitespace-nowrap">Camping Spot 2</h4>
+              <h4 className="bold-20 mt-2 whitespace-nowrap">Camping Spot B</h4>
             </div>
           </div>
         </div>
